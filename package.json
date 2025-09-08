@@ -1,0 +1,20 @@
+{
+  "name": "houseessentials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "evershop install",
+    "start": "evershop start",
+    "dev": "evershop dev",
+    "build": "evershop build",
+    "deploy": "evershop deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@evershop/evershop": "^2.0.1"
+  }
+}
