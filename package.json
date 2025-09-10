@@ -13,8 +13,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@evershop/evershop": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenaceG/HouseEssentials.store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MenaceG/HouseEssentials.store/issues"
+  },
+  "homepage": "https://github.com/MenaceG/HouseEssentials.store#readme",
+  "description": ""
 }
